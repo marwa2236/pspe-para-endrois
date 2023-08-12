@@ -19,10 +19,10 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-DEMO-320x100",
-"yandex_inter":"R-M-DEMO-interstitial",
-"yandex_native":"R-M-DEMO-native-i",
-"yandex_reward":"demo-rewarded-yandex",
+"yandex_banner":"R-M-2577898-1",
+"yandex_inter":"R-M-2577898-3",
+"yandex_native":"R-M-2577898-2",
+"yandex_reward":"R-M-2577898-4",
   
 "vungle_appid":"645e64defe20a95ccb12bd7b ",
 "vungle_inter":"INTER-5944534",
@@ -37,21 +37,21 @@
    ],
 
 "download_dialog_txt":"download text from server",
-"banner_network_choice":"vungle", 
-"interstisial_network_choice":"vungle", 
-"reward_network_choice":"vungle",
-"native_network_choice":"admob"
+"banner_network_choice":"yanndex", 
+"interstisial_network_choice":"yanndex", 
+"reward_network_choice":"yanndex",
+"native_network_choice":"yanndex"
   
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"in the ever-evolving landscape of gaming, few devices have left as significant a mark as the PlayStation Portable (PSP). Released by Sony in 2004, the PSP introduced a new era of portable gaming that combined cutting-edge technology with a diverse library of games, earning its place as one of the most beloved handheld consoles of its time. Let's take a journey back and explore the legacy of the PSP and its impact on the gaming industry.description1 ser ",
+   "photo1":"https://iili.io/HD7NR2f.webp"},
+  {"desc2":"The PSPs arrival marked a turning point for handheld gaming, as it successfully bridged the gap between console-quality gaming and the convenience of a portable device. With its impressive graphical capabilities, vibrant widescreen display, and multimedia features, the PSP was not just a gaming device—it was a portable entertainment powerhouse","photo2":"https://iili.io/HD7NT1s.webp"},
+  {"desc3":"One of the PSPs standout features was its diverse library of games that catered to a wide range of genres and preferences. From action-adventure and RPGs to sports simulations and puzzle games, the PSP had something for everyone. This extensive lineup contributed to the consoles popularity and ensured that gamers of all tastes could find titles that resonated with them.","photo3":"https://iili.io/HD7NIBn.webp"},
+  {"desc4":"In addition to original titles, the PSP also offered a robust collection of classic games through the PlayStation Store. Gamers could relive nostalgic moments with titles from previous generations, expanding the console's appeal to both new and seasoned players.","photo4":"https://iili.io/HD7N574.webp"},
+  {"desc5":"The PSP also embraced online connectivity, paving the way for multiplayer gaming and digital distribution. The device featured Wi-Fi capabilities that enabled gamers to connect with friends for multiplayer matches or download new content directly from the PlayStation Stor. Games like Monster Hunter Freedom Unite andLittleBigPlanet showcased the potential of online multiplayer on the PSP.","photo5":"https://iili.io/HD7NurG.webp"},
+  {"descd":"The PlayStation Portable (PSP) holds a special place in the hearts of gamers and enthusiasts around the world. Its technological innovations, diverse game library, multimedia capabilities, and online connectivity contributed to its status as a trailblazing handheld console.","photod":"https://iili.io/HD7kg3u.webp"}
    ]
  
 }
